@@ -48,14 +48,15 @@
 <ul>
   <li><strong> Omsk State University named after F. M. Dostoevsky</strong>
     <ul>
-      <li>International Psychology</li>
+      <li> Psychology</li>
     </ul>
   </li>
-  <li><strong>Hexlet</strong>
+  <li><strong>Сourses</strong>
     <ul>
       <li><a href="https://mskacademy.ru/project-management">Project Manager
 </a></li>
-      <li><a href="">F</a></li>
+      <li><a href="https://skillbox.ru/course/ru/profession-webdev">Frontend
+</a></li>
     </ul>
   </li>
 </ul>
