@@ -1,4 +1,4 @@
-  </head>
+
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <h1 id="anna-shipilova">Alexandra Gagarin</h1>
