@@ -59,7 +59,7 @@
 </a></li>
     </ul>
   </li>
-</ul>
+</ul> 
 
 <h2 id="languages">Languages:</h2>
 <ul>
