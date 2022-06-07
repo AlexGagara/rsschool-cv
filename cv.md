@@ -23,7 +23,7 @@
         <h2 id="my-skills">My skills:</h2>
       </li>
     </ul> 
-  </li>
+  </li> 
   <li>HTML, CSS;</li>
   <li>Git, GitHub;</li>
   <li>Figma, AdobePhotoshop;</li>
