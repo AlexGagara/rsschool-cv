@@ -22,7 +22,7 @@
       <li>
         <h2 id="my-skills">My skills:</h2>
       </li>
-    </ul>
+    </ul> 
   </li>
   <li>HTML, CSS;</li>
   <li>Git, GitHub;</li>
